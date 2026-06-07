@@ -1,4 +1,4 @@
-# View the current inventory here: [Groove-v2](https://github.com/firatmio/groove-v2)
+# View the current repository here: [Groove-v2](https://github.com/firatmio/groove-v2)
 
 <img src="./assets/logo-app.svg" width=75 height=75>
 
